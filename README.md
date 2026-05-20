@@ -25,7 +25,7 @@
 
 Estudante com foco em **dados** — construindo a base técnica para atuar como analista e, futuramente, engenheiro de dados.
 
-Tenho contato com tecnologias como reconhecimento facial, OCR e leitura de placas no contexto de segurança pública — e estou transformando esse conhecimento de domínio em vantagem competitiva na área de dados.
+Tenho contato com tecnologias como reconhecimento facial, OCR e leitura de placas no contexto de segurança pública — e estou transformando esse conhecimento de domínio em vantagem na área de dados.
 
 Meu plano é direto: **Fundação → Analista → Engenheiro de Dados**.  
 Cada repositório aqui é um passo real nessa direção.
