@@ -37,10 +37,9 @@ Cada repositório aqui é um passo real nessa direção.
 ## 🗺️ Onde estou na trilha
 
 ```
-✅ Fase 1 — Fundação          → EM ANDAMENTO
-⬜ Fase 2 — Analista de Dados
-⬜ Fase 3 — Transição DE
-⬜ Fase 4 — Engenheiro de Dados
+✅ Trainee          → EM ANDAMENTO
+⬜ Analista de Dados
+⬜ Engenheiro de Dados
 ```
 
 **Estudando agora:**
