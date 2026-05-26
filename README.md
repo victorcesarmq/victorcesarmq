@@ -27,7 +27,7 @@ Hoje estou migrando esse interesse para a área de dados — onde quero construi
 
 **Fundação** → Analista → Engenheiro de Dados
 
-Atualmente na fase de fundação. Próximo passo: analista.
+Atualmente na fase de fundação e almejo uma vaga como analista na area de tecnologia.
 
 **Estudando agora**
 
