@@ -42,15 +42,13 @@ Cada repositório aqui é um passo real nessa direção.
 
 ---
 
-## 🧰 Stack atual (o que já uso de verdade)
-
+## 🧰 Stack atual (o que já uso demonstrado em projetos)
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
-
 ---
 
 ## 🎯 Certificações
