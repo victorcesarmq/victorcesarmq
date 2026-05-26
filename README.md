@@ -32,7 +32,7 @@ Cada repositório aqui é um passo real nessa direção.
 
 ## Meu estado atual
 
-- Estou no início da jornada, cursando redes de computadores na faculdade e por fora aprendendo Python, SQL e Cloud atraves de cursos em plataformas gratuitas/pagas para construir a base que me leva de analista a engenheiro de dados. Python porque é a linguagem central da área de dados e Cloud porque é onde os dados vivem hoje. Cada projeto aqui é um passo nessa direção.
+- Estou no início da jornada, cursando Redes de Computadores na faculdade e aprendendo Python, SQL e Cloud por fora através de plataformas como HackerRank, Coursera e Google Cloud Skills.
 
 **Estudando agora:**
 
