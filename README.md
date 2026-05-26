@@ -87,13 +87,12 @@ Cada repositório aqui é um passo real nessa direção.
 
 ## 📁 Projetos
 
+**Concluídos ✅**
+- [Banco Multiconta](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/sistema-banco-multiconta)
+- [Registro de Ocorrencias](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/sistema-de-ocorrencias)
 
-> Concluidos✅
-> [Banco Multiconta](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/sistema-banco-multiconta)
-> [Registro de Ocorrencias](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/sistema-de-ocorrencias)
-> 
-> Em andamento⏱️
-> [Indicadores Econômicos do Brasil com API do BCB](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/Projeto_API_BCB)
+**Em andamento ⏱️**
+- [Indicadores Econômicos do Brasil com API do BCB](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/Projeto_API_BCB)
 
 ---
 
