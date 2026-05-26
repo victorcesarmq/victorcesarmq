@@ -32,11 +32,7 @@ Cada repositório aqui é um passo real nessa direção.
 
 ## Meu estado atual
 
-```
-✅ Trainee          → Em andamento por enquanto
-⬜ Analista
-⬜ Engenheiro
-```
+- Estou no início da jornada, cursando redes de coputadores na faculdade e por fora aprendendo Python, SQL e Cloud para construir a base que me leva de analista a engenheiro de dados. Python porque é a linguagem central da área de dados e Cloud porque é onde os dados vivem hoje. Cada projeto aqui é um passo nessa direção.
 
 **Estudando agora:**
 
