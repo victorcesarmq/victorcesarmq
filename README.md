@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/victorcesarmq"><img src="https://img.shields.io/badge/LinkedIn-victorcesarmq-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/victorcesarmq"><img src="https://img.shields.io/badge/LinkedIn-victorcesarmq-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Localização-Cuiabá%2C%20MT-555?style=flat-square&logo=googlemaps&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=victorcesarmq&color=0A66C2&style=flat-square&label=Visitas" />
 </p>
@@ -23,25 +23,26 @@ Estudante com foco em **dados** — construindo a base técnica para atuar como 
 
 Tenho contato com tecnologias como reconhecimento facial, OCR e leitura de placas no contexto de segurança pública — e estou transformando esse conhecimento de domínio em vantagem na área de dados.
 
-Meu plano é direto: **Fundação → Analista → Engenheiro de Dados**.  
+Meu plano de carreira é o seguinte: **Fundação → Analista → Engenheiro de Dados**.  
 Cada repositório aqui é um passo real nessa direção.
 
 > 📍 Cuiabá, MT · 🎓 Redes de Computadores — Uniasselvi (cursando) · 💡 Engenharia da Computação planejada para 2026
 
 ---
 
-## 🗺️ Onde estou na trilha
+## Meu estado atual
 
 ```
-✅ Trainee          → EM ANDAMENTO
-⬜ Analista de Dados
-⬜ Engenheiro de Dados
+✅ Trainee          → Em andamento por enquanto
+⬜ Analista
+⬜ Engenheiro
 ```
 
 **Estudando agora:**
 
-- 🐍 Python — lógica, funções, OOP básico
+- 🐍 Python — No momento estudando OOP e as Bibliotecas mais usadas na area de dados (Pandas, matplotlib, NumPy) para aplicar em projetos
 - 🗄️ SQL — SELECT, WHERE, GROUP BY, JOINs
+- 🔌 API's
 
 ---
 
@@ -49,25 +50,21 @@ Cada repositório aqui é um passo real nessa direção.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-> ⚙️ Só tecnologias que consigo demonstrar em código.
-
 ---
 
 ## 🎯 Certificações
 
-| Status | Certificação | Plataforma |
-|--------|--------------|------------|
-| ✅ Concluída | Google Cloud Computing Foundations | Google Cloud |
-| ✅ Concluída | HackerRank Python Basic | HackerRank |
-| 📌 Próxima | HackerRank SQL — Basic | HackerRank |
-| 📌 Próxima | PCEP — Python Institute | Python Institute |
-| 📌 Planejada | Google Data Analytics | Coursera |
+<div align="center">
+
+<a href="https://www.credly.com/badges/441aec6a-f562-4c9b-9f68-b2092ade6329/public_url"><img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/linkedin_thumb_image.png" width="100" title="Google Cloud Computing Foundations Certificate" /></a>
+<a href="https://www.hackerrank.com/certificates/7b06a743a449"><img src="https://img.shields.io/badge/HackerRank-Python%20Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+
+</div>
 
 ---
 
@@ -83,8 +80,13 @@ Cada repositório aqui é um passo real nessa direção.
 
 ## 📁 Projetos
 
-> 🚧 Em construção — primeiros projetos com dados públicos (IBGE / SSP-MT) chegam em breve.  
-> Acompanhe o progresso pelos commits.
+
+> Concluidos✅
+> [Banco Multiconta](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/sistema-banco-multiconta)
+> [Registro de Ocorrencias](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/sistema-de-ocorrencias)
+> 
+> Em andamento⏱️
+> [Indicadores Econômicos do Brasil com API do BCB](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/Projeto_API_BCB)
 
 ---
 
