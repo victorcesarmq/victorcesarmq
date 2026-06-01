@@ -27,13 +27,13 @@ Hoje estou migrando esse interesse para a área de dados — onde quero construi
 
 **Fundação** → Analista → Engenheiro de Dados
 
-Atualmente na fase de fundação e almejo uma vaga como analista na area de tecnologia.
+Atualmente na fase de fundação e almejo uma vaga como analista na área de tecnologia.
 
 **Estudando agora**
 
 - Python — OOP e bibliotecas de dados (Pandas, NumPy, Matplotlib)
-- SQL — SELECT, WHERE, GROUP BY, JOINs
-- APIs — consumo e tratamento de dados externos
+- SQL — SELECT, WHERE, GROUP BY, JOINs, SQLite
+- APIs — consumo, tratamento e paginação de dados externos
 
 Estudo por fora através de HackerRank, Coursera e Google Cloud Skills, paralelo à faculdade.
 
@@ -46,6 +46,7 @@ Estudo por fora através de HackerRank, Coursera e Google Cloud Skills, paralelo
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -71,16 +72,21 @@ Estudo por fora através de HackerRank, Coursera e Google Cloud Skills, paralelo
 
 ---
 
-## 📁 Projetos
+## Projetos
 
 **Concluídos**
 
-- [Banco Multiconta](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/sistema-banco-multiconta)
-- [Registro de Ocorrências](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/sistema-de-ocorrencias)
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Sistema Banco Multiconta](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/sistema-banco-multiconta) | Sistema bancário com múltiplas contas, transferências e persistência JSON | Python · OOP · JSON |
+| [Registro de Ocorrências](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/sistema-de-ocorrencias) | Registro e análise de ocorrências inspirado no Vigia Mais MT/SSP-MT | Python · Pandas · JSON |
+| [Indicadores Econômicos — BCB](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/Projeto_API_BCB) | Coleta SELIC, IPCA e câmbio via API do Banco Central. Simulador de rendimento Tesouro Selic, inflação e câmbio | Python · Pandas · Matplotlib · Requests |
 
 **Em andamento**
 
-- [Indicadores Econômicos do Brasil com API do BCB](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/Projeto_API_BCB)
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Analisador PNCP](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/analisador-pncp) | Análise de licitações públicas de MT via API do PNCP com persistência em banco de dados | Python · Pandas · SQLite · Requests |
 
 ---
 
