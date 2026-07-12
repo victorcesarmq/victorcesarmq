@@ -25,17 +25,7 @@ Hoje estou migrando esse interesse para a área de dados — onde quero construi
 
 ## Roadmap
 
-**Fundação** → Analista → Engenheiro de Dados
-
-Atualmente na fase de fundação e almejo uma vaga como analista na área de tecnologia.
-
-**Estudando agora**
-
-- Python — OOP e bibliotecas de dados (Pandas, NumPy, Matplotlib)
-- SQL — SELECT, WHERE, GROUP BY, JOINs, SQLite
-- APIs — consumo, tratamento e paginação de dados externos
-
-Estudo por fora através de HackerRank, Coursera e Google Cloud Skills, paralelo à faculdade.
+Atualmente no inicio de carreira e almejo um dia ser Engenheiro de Dados.
 
 ---
 
@@ -60,7 +50,7 @@ Estudo por fora através de HackerRank, Coursera e Google Cloud Skills, paralelo
 |--------|--------------|------------|
 | ✅ | [Google Cloud Computing Foundations](https://www.credly.com/badges/441aec6a-f562-4c9b-9f68-b2092ade6329/public_url) | Google Cloud |
 | ✅ | [HackerRank Python Basic](https://www.hackerrank.com/certificates/7b06a743a449) | HackerRank |
-| 🎯 | HackerRank SQL — Basic | HackerRank |
+| ✅ | [Administrador de Banco de Dados](https://moodle.ifrs.edu.br/mod/simplecertificate/verify.php?code=6a527fe2-20a0-4d96-8827-18720aa8133c) | IFRS |
 
 ---
 
