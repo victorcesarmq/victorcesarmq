@@ -19,7 +19,7 @@ Minha primeira experiência prática em TI foi como estagiário na SSP-MT (2023�
 
 Hoje estou migrando esse interesse para a área de dados — onde quero construir carreira como analista e, futuramente, engenheiro.
 
-> Cuiabá, MT · Redes de Computadores na Uniasselvi · Engenharia da Computação prevista para 2026
+> Cuiabá, MT · Análise e Desenvolvimento de Sistemas na Uniasselvi 
 
 ---
 
