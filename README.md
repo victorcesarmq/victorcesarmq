@@ -82,7 +82,7 @@ Atualmente no inicio de carreira e almejo um dia ser Engenheiro de Dados.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-rho-mauve-52.vercel.app/api/top-langs/?username=victorcesarmq&exclude_repo=github-readme-stats)](https://github.com/victorcesarmq)
+[![Skills](https://skillicons.dev/icons?ids=python,js,html,css,git)](https://skillicons.dev)
 
 </div>
 
