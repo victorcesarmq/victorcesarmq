@@ -82,7 +82,7 @@ Atualmente no inicio de carreira e almejo um dia ser Engenheiro de Dados.
 
 <div align="center">
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=victorcesarmq&layout=compact&langs_count=6)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=victorcesarmq&layout=donut&langs_count=6&theme=dark_github)
 
 </div>
 
