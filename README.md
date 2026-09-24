@@ -82,7 +82,7 @@ Atualmente no inicio de carreira e almejo um dia ser Engenheiro de Dados.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-git-master-victorcesarmqs-projects.vercel.app/api/top-langs/?username=victorcesarmq&exclude_repo=github-readme-stats&layout=pie)](https://github.com/victorcesarmq)
+![Top Langs](https://raw.githubusercontent.com/victorcesarmq/github-stats-extended/master/caminho-do-arquivo-gerado.svg)
 
 </div>
 
