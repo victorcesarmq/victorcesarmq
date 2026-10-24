@@ -2,7 +2,6 @@
 
 # Victor Cesar de Morais Queiroz
 
-**Em transição estruturada para a área de dados**
 Python · SQL · Google Cloud
 
 <a href="https://linkedin.com/in/victorcesarmq"><img src="https://img.shields.io/badge/LinkedIn-victorcesarmq-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -14,20 +13,9 @@ Python · SQL · Google Cloud
 ---
 
 ## Sobre
+Graduando em Engenharia da Computação, focado em desenvolvimento backend, engenharia de dados e inteligência artificial (ML e LLMs). Desenvolvo projetos práticos com Python, automação de processos, consumo de APIs, bancos de dados, SQL e modelagem de dados.
 
-Minha primeira experiência prática em TI foi como estagiário na SSP-MT (2023–2025), no programa Vigia Mais MT — atuando em help desk, atendimento ao usuário e alinhamento técnico com a desenvolvedora do sistema (Multiway/Sentry). Foi onde entendi como tecnologia, dados e operação se conectam no dia a dia.
-
-Hoje estou migrando esse interesse para a área de dados — onde quero construir carreira como analista e, futuramente, engenheiro.
-
-> Cuiabá, MT · Análise e Desenvolvimento de Sistemas na Uniasselvi 
-
----
-
-## Roadmap
-
-Atualmente no inicio de carreira e almejo um dia ser Engenheiro de Dados.
-
----
+> Cuiabá, MT
 
 ## Stack
 
@@ -42,16 +30,6 @@ Atualmente no inicio de carreira e almejo um dia ser Engenheiro de Dados.
 
 ---
 
-## Certificações
-
-| Status | Certificação | Plataforma |
-|--------|--------------|------------|
-| ✅ | [Google Cloud Computing Foundations](https://www.credly.com/badges/441aec6a-f562-4c9b-9f68-b2092ade6329/public_url) | Google Cloud |
-| ✅ | [HackerRank Python Basic](https://www.hackerrank.com/certificates/7b06a743a449) | HackerRank |
-| ✅ | [Administrador de Banco de Dados](https://moodle.ifrs.edu.br/mod/simplecertificate/verify.php?code=6a527fe2-20a0-4d96-8827-18720aa8133c) | IFRS |
-
----
-
 ## Badges
 
 <p>
@@ -61,14 +39,6 @@ Atualmente no inicio de carreira e almejo um dia ser Engenheiro de Dados.
 ---
 
 ## Projetos
-
-**Concluídos**
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Sistema Banco Multiconta](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/sistema-banco-multiconta) | Sistema bancário com múltiplas contas, transferências e persistência JSON | Python · OOP · JSON |
-| [Registro de Ocorrências](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/sistema-de-ocorrencias) | Registro e análise de ocorrências inspirado no Vigia Mais MT/SSP-MT | Python · Pandas · JSON |
-| [Indicadores Econômicos — BCB](https://github.com/victorcesarmq/estudos-python/tree/main/projetos/Projeto_API_BCB) | Coleta SELIC, IPCA e câmbio via API do Banco Central. Simulador de rendimento Tesouro Selic, inflação e câmbio | Python · Pandas · Matplotlib · Requests |
 
 **Em andamento**
 
