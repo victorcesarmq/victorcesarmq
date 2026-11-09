@@ -52,7 +52,7 @@ Graduando em Engenharia da Computação, focado em desenvolvimento backend, enge
 
 <div align="center">
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=victorcesarmq&layout=donut&langs_count=6&theme=dark_github)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=victorcesarmq&layout=donut&langs_count=5&theme=dark_github)
 
 </div>
 
